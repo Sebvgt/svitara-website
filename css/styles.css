@@ -220,7 +220,6 @@ p { margin: 0; }
 .statement {
   position: relative;
   padding: 140px 32px;
-  border-top: 1px solid var(--border);
   overflow: hidden;
 }
 
