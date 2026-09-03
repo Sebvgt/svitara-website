@@ -1,10 +1,10 @@
 :root {
-  --bg: #1c2433;
-  --bg-alt: #262f43;
-  --fg: #f3f0e9;
-  --fg-muted: #9aa2b3;
-  --border: rgba(255,255,255,0.10);
-  --accent: #c6a15b;
+  --bg: #ffffff;
+  --bg-alt: #f5f4f1;
+  --fg: #17191f;
+  --fg-muted: #62697a;
+  --border: rgba(0,0,0,0.10);
+  --accent: #a3803a;
   --font-head: 'Jost', 'Helvetica Neue', Arial, sans-serif;
   --font-serif: 'Cormorant Garamond', Georgia, serif;
   --font-body: 'Jost', 'Helvetica Neue', Arial, sans-serif;
@@ -50,7 +50,7 @@ p { margin: 0; }
   left: 0;
   right: 0;
   z-index: 100;
-  background: linear-gradient(to bottom, rgba(16,20,28,0.95), rgba(16,20,28,0));
+  background: linear-gradient(to bottom, rgba(255,255,255,0.95), rgba(255,255,255,0));
   backdrop-filter: blur(6px);
 }
 
@@ -151,7 +151,7 @@ p { margin: 0; }
   content: "";
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at 72% 38%, rgba(198,161,91,0.16), transparent 55%);
+  background: radial-gradient(circle at 72% 38%, rgba(163,128,58,0.10), transparent 55%);
   pointer-events: none;
 }
 
@@ -370,7 +370,7 @@ p { margin: 0; }
   width: 100%;
   aspect-ratio: 4 / 5;
   border-radius: 2px;
-  background: linear-gradient(150deg, #1c2331, #262f41);
+  background: linear-gradient(150deg, #ececea, #dedcd7);
   margin-bottom: 22px;
   border: 1px solid var(--border);
 }
