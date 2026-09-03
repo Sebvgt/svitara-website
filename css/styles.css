@@ -66,14 +66,14 @@ p { margin: 0; }
 .logo {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   font-family: var(--font-head);
   font-weight: 500;
-  font-size: 16px;
+  font-size: 21px;
   letter-spacing: 0.18em;
 }
 
-.logo svg { display: block; color: var(--accent); }
+.logo svg { display: block; width: 29px; height: 29px; color: var(--accent); }
 
 .nav-desktop {
   display: flex;
