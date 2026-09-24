@@ -1,0 +1,1 @@
+import{b as e,d as t,n}from"#entry";import{t as r}from"./BeblCJx2.js";var i={};function a(n,i){let a=r;return e(),t(a,{locale:`en`})}var o=n(i,[[`render`,a]]);export{o as default};
