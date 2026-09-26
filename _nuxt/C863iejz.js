@@ -1,0 +1,1 @@
+import{S as e,n as t,p as n}from"#entry";import{t as r}from"./DhfVn9Av.js";var i={};function a(t,i){let a=r;return e(),n(a,{locale:`en`})}var o=t(i,[[`render`,a]]);export{o as default};
